@@ -1,0 +1,20 @@
+{
+  "name": "yamanda-theme-boilerplate",
+  "version": "1.0.0",
+  "description": "A starter theme for tokopedia microsites.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "boilerplate",
+    "wordpress"
+  ],
+  "author": "Satrio Yamanda Putra",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0"
+  }
+}
